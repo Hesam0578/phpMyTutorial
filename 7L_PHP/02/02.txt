@@ -1,0 +1,12 @@
+.php
+.phtml
+.php3
+.php4
+.php5
+.phps
+
+-----------------
+ASCII => 1Byte
+UTF-8
+سلام
+
